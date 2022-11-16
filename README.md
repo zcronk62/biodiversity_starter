@@ -13,3 +13,9 @@ The purpose of this project will be to showcase data wrangling and data tidy ski
 To perform the analyses, this porject will use Python 3 and Jupyter Notebook. Data wrangling and tidying will be completed using the `pandas` library. Visualization will be perfomred using the `matplotlib.pyplot` and `seaborn` libraries.
 
 ## Project Goals
+
+1. Inspect and clean each dataset.
+2. Inspect the observation distributions.
+3. Inspect the distribution of conservation statuses for each species.
+4. Combine the two `.csv` files into a master DataFrame object.
+5. Analyze and interpret how the frequency with which a species is obbserved is related to species category and/or conservation status.
